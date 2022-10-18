@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @isha1912
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently pursuing Google Data Analytics Professional Certificate
-- 💞️ I’m looking for an internship in Data Analytics
+- 💞️ I’m looking for an entry level job as a Data Analyst/Business Intelligence Analyst
 - 📫 Reach me @ ishapanjwani5@gmail.com or ipanjwani@algomau.ca
 
 <!---
